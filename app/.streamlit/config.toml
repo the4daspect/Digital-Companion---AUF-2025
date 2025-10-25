@@ -1,0 +1,14 @@
+[server]
+enableStaticServing = true
+
+[[theme.fontFaces]]
+family = "Baloo2"
+url = "app/static/Baloo2-Medium.ttf"
+weight=200
+
+[theme]
+base="light"
+backgroundColor="#fff9ef"
+textColor="#736e67"
+font="Baloo2"
+codeFont="Baloo2"
