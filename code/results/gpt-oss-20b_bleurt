@@ -1,0 +1,29 @@
+import pandas as pd
+df = pd.read_csv('gpt-oss-20b_baseline1.csv')
+
+!git clone https://github.com/google-research/bleurt.git
+%cd bleurt
+!pip install .
+
+!wget https://storage.googleapis.com/bleurt-oss-21/BLEURT-20.zip .
+!unzip BLEURT-20.zip
+
+from bleurt import score
+
+def calculate_bleurt(candidate, reference):
+  scorer = score.BleurtScorer(checkpoint = 'BLEURT-20')
+  bleurt_score = scorer.score(references=[reference], candidates=[candidate])
+  return bleurt_score
+
+bleurt_scores = []
+for i in range(len(df)):
+  bleurt_score = calculate_bleurt(df['Answer'][i], df['Response'][i])
+  bleurt_scores.append(bleurt_score)
+
+table = df.copy()
+table['bleurt_score'] = bleurt_scores
+
+table['bleurt_score'] = table['bleurt_score'].astype(str).str.strip("[]").astype(float)
+total_score = table['bleurt_score'].sum()
+average_score = total_score / len(table)
+print(average_score)
