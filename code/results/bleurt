@@ -1,6 +1,7 @@
 import pandas as pd
 df = pd.read_csv('filename.csv')
 
+# Install necessary packages
 !git clone https://github.com/google-research/bleurt.git
 %cd bleurt
 !pip install .
@@ -10,6 +11,7 @@ df = pd.read_csv('filename.csv')
 
 from bleurt import score
 
+# Calculate bleurt
 def calculate_bleurt(candidate, reference):
   scorer = score.BleurtScorer(checkpoint = 'BLEURT-20')
   bleurt_score = scorer.score(references=[reference], candidates=[candidate])
@@ -20,6 +22,7 @@ for i in range(len(df)):
   bleurt_score = calculate_bleurt(candidate = candidate, reference = reference)
   bleurt_scores.append(bleurt_score)
 
+# Insert newly calculated values
 df['bleurt_score'] = bleurt_scores
 df.to_csv('filenamewithbleurt.csv', index = False)
 df['bleurt_score'] = df['bleurt_score'].astype(str).str.strip("[]").astype(float)
