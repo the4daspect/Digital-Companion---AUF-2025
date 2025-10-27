@@ -1,0 +1,238 @@
+[I 10:03:53.943 NotebookApp] Serving notebooks from local directory: /home/ardjano/auf/finetune
+[I 10:03:53.943 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 10:03:53.943 NotebookApp] http://localhost:8889/?token=39c3f1c2493b28d2dc9deae6c58074ae77ad1166153129ab
+[I 10:03:53.943 NotebookApp]  or http://127.0.0.1:8889/?token=39c3f1c2493b28d2dc9deae6c58074ae77ad1166153129ab
+[I 10:03:53.943 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:03:53.945 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ardjano/.local/share/jupyter/runtime/nbserver-270484-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=39c3f1c2493b28d2dc9deae6c58074ae77ad1166153129ab
+     or http://127.0.0.1:8889/?token=39c3f1c2493b28d2dc9deae6c58074ae77ad1166153129ab
+[I 10:06:52.061 NotebookApp] 302 GET / (127.0.0.1) 0.260000ms
+[I 10:06:52.062 NotebookApp] 302 GET /tree? (127.0.0.1) 0.370000ms
+[I 10:06:54.903 NotebookApp] 302 GET / (127.0.0.1) 0.240000ms
+[I 10:06:54.904 NotebookApp] 302 GET /tree? (127.0.0.1) 0.260000ms
+[I 10:07:07.013 NotebookApp] 302 GET / (127.0.0.1) 0.280000ms
+[I 10:07:07.015 NotebookApp] 302 GET /tree? (127.0.0.1) 0.340000ms
+[I 10:07:07.042 NotebookApp] Kernel started: 1586c807-70c8-4732-a5bc-267555d14f05, name: unsloth-env
+[I 10:07:07.394 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:51ee6052-dac2-472e-9924-05d57480b897
+[I 10:07:07.399 NotebookApp] Restoring connection for 1586c807-70c8-4732-a5bc-267555d14f05:51ee6052-dac2-472e-9924-05d57480b897
+[I 10:07:07.401 NotebookApp] Replaying 1 buffered messages
+[I 13:29:28.477 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:51ee6052-dac2-472e-9924-05d57480b897
+[I 16:29:19.755 NotebookApp] 302 GET / (127.0.0.1) 0.290000ms
+[I 16:29:19.772 NotebookApp] 302 GET /tree? (127.0.0.1) 0.360000ms
+[I 16:29:20.201 NotebookApp] 302 GET / (127.0.0.1) 0.230000ms
+[I 16:29:20.204 NotebookApp] 302 GET /tree? (127.0.0.1) 0.310000ms
+[I 16:29:20.227 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:2f9cb83b-2435-45f8-a5a4-a55c1c6d51bf
+[I 16:29:20.233 NotebookApp] Restoring connection for 1586c807-70c8-4732-a5bc-267555d14f05:2f9cb83b-2435-45f8-a5a4-a55c1c6d51bf
+[I 16:29:21.092 NotebookApp] 302 GET / (127.0.0.1) 0.970000ms
+[I 16:29:21.098 NotebookApp] 302 GET /tree? (127.0.0.1) 0.380000ms
+[I 16:29:33.886 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:2f9cb83b-2435-45f8-a5a4-a55c1c6d51bf
+[I 16:30:06.339 NotebookApp] 302 GET / (127.0.0.1) 0.240000ms
+[I 16:30:06.340 NotebookApp] 302 GET /tree? (127.0.0.1) 0.260000ms
+[I 16:30:06.353 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:a41ea76f-d66d-4915-9283-0b50a2c6be8f
+[I 16:30:06.357 NotebookApp] Restoring connection for 1586c807-70c8-4732-a5bc-267555d14f05:a41ea76f-d66d-4915-9283-0b50a2c6be8f
+[I 16:30:07.191 NotebookApp] 302 GET / (127.0.0.1) 1.050000ms
+[I 16:30:07.196 NotebookApp] 302 GET /tree? (127.0.0.1) 0.500000ms
+[I 16:30:37.721 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:a41ea76f-d66d-4915-9283-0b50a2c6be8f
+[I 16:31:08.569 NotebookApp] 302 GET / (127.0.0.1) 0.210000ms
+[I 16:31:08.570 NotebookApp] 302 GET /tree? (127.0.0.1) 0.250000ms
+[I 16:31:08.582 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:4e09fc73-dde7-4ef4-b54f-d139ee7f3ce6
+[I 16:31:08.586 NotebookApp] Restoring connection for 1586c807-70c8-4732-a5bc-267555d14f05:4e09fc73-dde7-4ef4-b54f-d139ee7f3ce6
+[I 16:31:09.451 NotebookApp] 302 GET / (127.0.0.1) 0.940000ms
+[I 16:31:09.455 NotebookApp] 302 GET /tree? (127.0.0.1) 0.330000ms
+[I 16:46:31.191 NotebookApp] 302 GET /?token=39c3f1c2493b28d2dc9deae6c58074ae77ad1166153129ab (127.0.0.1) 0.280000ms
+[W 16:49:39.810 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[I 16:49:40.344 NotebookApp] Kernel started: e0657b49-3103-4832-9afa-aea7cb2175b2, name: unsloth-env
+[I 16:50:30.415 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:6e32e17e61794303ad611ef111e9508b
+[I 16:50:33.043 NotebookApp] Kernel restarted: e0657b49-3103-4832-9afa-aea7cb2175b2
+[I 16:50:33.328 NotebookApp] Restoring connection for e0657b49-3103-4832-9afa-aea7cb2175b2:6e32e17e61794303ad611ef111e9508b
+[I 16:50:33.328 NotebookApp] Replaying 1 buffered messages
+[I 16:51:13.033 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 1586c807-70c8-4732-a5bc-267555d14f05 restarted
+[I 16:51:13.035 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:4e09fc73-dde7-4ef4-b54f-d139ee7f3ce6
+[I 16:51:13.038 NotebookApp] Restoring connection for 1586c807-70c8-4732-a5bc-267555d14f05:4e09fc73-dde7-4ef4-b54f-d139ee7f3ce6
+[I 16:51:22.536 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:6e32e17e61794303ad611ef111e9508b
+[I 16:51:25.163 NotebookApp] Kernel restarted: e0657b49-3103-4832-9afa-aea7cb2175b2
+[I 16:51:25.449 NotebookApp] Restoring connection for e0657b49-3103-4832-9afa-aea7cb2175b2:6e32e17e61794303ad611ef111e9508b
+[I 16:51:25.449 NotebookApp] Replaying 1 buffered messages
+[I 16:51:45.869 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 16:51:50.495 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 16:53:40.560 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 16:54:30.289 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:6e32e17e61794303ad611ef111e9508b
+[I 20:11:15.111 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:4e09fc73-dde7-4ef4-b54f-d139ee7f3ce6
+[I 01:05:51.897 NotebookApp] Discarding 2526 buffered messages for e0657b49-3103-4832-9afa-aea7cb2175b2:6e32e17e61794303ad611ef111e9508b
+[W 01:05:52.379 NotebookApp] 404 GET /static/@jupyter-widgets/base.js?v=20250807100353 (127.0.0.1) 3.470000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[W 01:05:52.380 NotebookApp] 404 GET /static/@jupyter-widgets/controls.js?v=20250807100353 (127.0.0.1) 0.610000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[I 01:07:51.973 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:08:07.255 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:09:52.018 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:11:52.055 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:13:50.523 NotebookApp] 302 GET / (127.0.0.1) 0.390000ms
+[I 01:13:50.541 NotebookApp] 302 GET /tree? (127.0.0.1) 0.520000ms
+[I 01:13:50.979 NotebookApp] 302 GET / (127.0.0.1) 0.380000ms
+[I 01:13:50.986 NotebookApp] 302 GET /tree? (127.0.0.1) 0.480000ms
+[I 01:13:51.008 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:ed6e5585-b872-426d-8591-6bacdf190670
+[I 01:13:51.014 NotebookApp] Restoring connection for 1586c807-70c8-4732-a5bc-267555d14f05:ed6e5585-b872-426d-8591-6bacdf190670
+[I 01:13:51.872 NotebookApp] 302 GET / (127.0.0.1) 0.700000ms
+[I 01:13:51.878 NotebookApp] 302 GET /tree? (127.0.0.1) 0.470000ms
+[I 01:21:14.892 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:ed6e5585-b872-426d-8591-6bacdf190670
+[W 01:21:38.206 NotebookApp] 404 GET /.well-known/appspecific/com.chrome.devtools.json (127.0.0.1) 0.690000ms referer=None
+[I 01:21:54.746 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:21:58.997 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:22:03.638 NotebookApp] 302 GET / (127.0.0.1) 0.260000ms
+[I 01:22:03.640 NotebookApp] 302 GET /tree? (127.0.0.1) 0.300000ms
+[I 01:22:03.655 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:12635514-670c-443d-bc27-226ba5ba6186
+[I 01:22:03.660 NotebookApp] Restoring connection for 1586c807-70c8-4732-a5bc-267555d14f05:12635514-670c-443d-bc27-226ba5ba6186
+[I 01:22:04.533 NotebookApp] 302 GET / (127.0.0.1) 0.680000ms
+[I 01:22:04.538 NotebookApp] 302 GET /tree? (127.0.0.1) 0.360000ms
+[I 01:22:44.726 NotebookApp] Starting buffering for 1586c807-70c8-4732-a5bc-267555d14f05:12635514-670c-443d-bc27-226ba5ba6186
+[I 01:22:48.001 NotebookApp] 302 GET / (127.0.0.1) 0.240000ms
+[I 01:22:48.003 NotebookApp] 302 GET /tree? (127.0.0.1) 0.260000ms
+[I 01:22:48.029 NotebookApp] Kernel started: 63af4703-c69e-4533-8327-3e86ed300b7d, name: unsloth-env
+[I 01:22:48.441 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:653393ca-377b-4eea-9fea-a58eae80a7d2
+[I 01:22:48.445 NotebookApp] Restoring connection for 63af4703-c69e-4533-8327-3e86ed300b7d:653393ca-377b-4eea-9fea-a58eae80a7d2
+[I 01:22:54.564 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:653393ca-377b-4eea-9fea-a58eae80a7d2
+[I 01:23:54.701 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:25:56.609 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:31:16.734 NotebookApp] 302 GET / (127.0.0.1) 0.260000ms
+[I 01:31:18.168 NotebookApp] 302 GET /tree? (127.0.0.1) 0.330000ms
+[I 01:32:39.452 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:38:40.629 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:46:39.515 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:52:39.472 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 01:58:41.310 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 02:06:41.157 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[I 02:11:23.534 NotebookApp] 302 GET / (127.0.0.1) 0.210000ms
+[I 02:11:23.535 NotebookApp] 302 GET /tree? (127.0.0.1) 0.260000ms
+[I 02:11:23.547 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:d03f8214-9a9c-4f4a-a3ab-dbb61b3909f0
+[I 02:11:23.550 NotebookApp] Restoring connection for 63af4703-c69e-4533-8327-3e86ed300b7d:d03f8214-9a9c-4f4a-a3ab-dbb61b3909f0
+[I 02:11:24.373 NotebookApp] 302 GET / (127.0.0.1) 0.200000ms
+[I 02:11:24.377 NotebookApp] 302 GET /tree? (127.0.0.1) 0.460000ms
+[I 02:11:49.405 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:d03f8214-9a9c-4f4a-a3ab-dbb61b3909f0
+[I 02:17:08.126 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:2303f03ea0414a0885bb8b39c89fdfac
+[W 02:17:08.602 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[I 02:18:48.838 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[W 02:18:48.838 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[I 02:18:48.923 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:9646f9a98818410289b2f16c9ad04ede
+[W 02:18:49.224 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[W 02:38:02.735 NotebookApp] 404 GET /static/@jupyter-widgets/base.js?v=20250807100353 (127.0.0.1) 0.900000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[W 02:38:02.782 NotebookApp] 404 GET /static/@jupyter-widgets/controls.js?v=20250807100353 (127.0.0.1) 0.850000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[I 02:39:35.141 NotebookApp] Saving file at /v2gemma-27b.ipynb
+[W 02:39:35.142 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[I 02:52:20.076 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:1e752ab408ab428bb2d806dfc4350399
+[W 02:52:20.481 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[W 02:52:22.135 NotebookApp] 404 GET /static/@jupyter-widgets/base.js?v=20250807100353 (127.0.0.1) 0.930000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[W 02:52:22.136 NotebookApp] 404 GET /static/@jupyter-widgets/controls.js?v=20250807100353 (127.0.0.1) 0.590000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[I 02:52:51.263 NotebookApp] 302 GET /?token=39c3f1c2493b28d2dc9deae6c58074ae77ad1166153129ab (127.0.0.1) 0.250000ms
+[W 02:52:56.471 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[W 02:52:58.111 NotebookApp] 404 GET /static/@jupyter-widgets/base.js?v=20250807100353 (127.0.0.1) 0.880000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[W 02:52:58.112 NotebookApp] 404 GET /static/@jupyter-widgets/controls.js?v=20250807100353 (127.0.0.1) 0.590000ms referer=http://localhost:8889/notebooks/v2gemma-27b.ipynb
+[I 02:53:43.153 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel e0657b49-3103-4832-9afa-aea7cb2175b2 restarted
+WARNING:root:kernel e0657b49-3103-4832-9afa-aea7cb2175b2 restarted
+[I 02:53:45.681 NotebookApp] The port 8889 is already in use, trying another port.
+[I 02:53:45.682 NotebookApp] Serving notebooks from local directory: /home/ardjano/auf/finetune
+[I 02:53:45.682 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 02:53:45.682 NotebookApp] http://localhost:8890/?token=2246cf5b5271557dee6bca52658d3b7825bd55dc71fc5ca6
+[I 02:53:45.682 NotebookApp]  or http://127.0.0.1:8890/?token=2246cf5b5271557dee6bca52658d3b7825bd55dc71fc5ca6
+[I 02:53:45.682 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:53:45.684 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ardjano/.local/share/jupyter/runtime/nbserver-277906-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=2246cf5b5271557dee6bca52658d3b7825bd55dc71fc5ca6
+     or http://127.0.0.1:8890/?token=2246cf5b5271557dee6bca52658d3b7825bd55dc71fc5ca6
+[I 02:54:39.261 NotebookApp] The port 8889 is already in use, trying another port.
+[I 02:54:39.261 NotebookApp] The port 8890 is already in use, trying another port.
+[I 02:54:39.262 NotebookApp] Serving notebooks from local directory: /home/ardjano/auf/finetune
+[I 02:54:39.262 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 02:54:39.262 NotebookApp] http://localhost:8891/?token=cc2da4510334c94f28580d45b44b68e262b5b3eb25d3e509
+[I 02:54:39.262 NotebookApp]  or http://127.0.0.1:8891/?token=cc2da4510334c94f28580d45b44b68e262b5b3eb25d3e509
+[I 02:54:39.262 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:54:39.263 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ardjano/.local/share/jupyter/runtime/nbserver-278034-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=cc2da4510334c94f28580d45b44b68e262b5b3eb25d3e509
+     or http://127.0.0.1:8891/?token=cc2da4510334c94f28580d45b44b68e262b5b3eb25d3e509
+[I 02:55:03.354 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:bd242a91c9f946bba5a9854efa4a6942
+[I 02:55:10.299 NotebookApp] Restoring connection for e0657b49-3103-4832-9afa-aea7cb2175b2:bd242a91c9f946bba5a9854efa4a6942
+[I 03:03:53.732 NotebookApp] 302 GET /notebooks/ (127.0.0.1) 0.520000ms
+[W 03:03:57.247 NotebookApp] Notebook qwen32-b.ipynb is not trusted
+[I 03:03:57.671 NotebookApp] Kernel started: a2a00142-f21c-41cf-bb9a-629b1222f91a, name: unsloth-env
+[W 03:04:08.034 NotebookApp] Notebook v2gemma-27b.ipynb is not trusted
+[I 03:04:34.735 NotebookApp] Starting buffering for a2a00142-f21c-41cf-bb9a-629b1222f91a:284d5ae35ea0448b8d0f142d66989f96
+[I 03:04:34.864 NotebookApp] Kernel restarted: a2a00142-f21c-41cf-bb9a-629b1222f91a
+[I 03:04:35.070 NotebookApp] Restoring connection for a2a00142-f21c-41cf-bb9a-629b1222f91a:284d5ae35ea0448b8d0f142d66989f96
+[I 03:04:35.573 NotebookApp] Replaying 3 buffered messages
+[I 03:05:58.628 NotebookApp] Saving file at /qwen32-b.ipynb
+[I 03:11:11.290 NotebookApp] Starting buffering for a2a00142-f21c-41cf-bb9a-629b1222f91a:284d5ae35ea0448b8d0f142d66989f96
+[W 03:13:10.300 NotebookApp] WebSocket ping timeout after 119789 ms.
+[I 03:13:15.302 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:bd242a91c9f946bba5a9854efa4a6942
+[I 12:22:09.952 NotebookApp] Restoring connection for e0657b49-3103-4832-9afa-aea7cb2175b2:bd242a91c9f946bba5a9854efa4a6942
+[I 12:22:10.110 NotebookApp] Restoring connection for a2a00142-f21c-41cf-bb9a-629b1222f91a:284d5ae35ea0448b8d0f142d66989f96
+[I 12:22:10.112 NotebookApp] Replaying 1888 buffered messages
+[I 12:22:32.507 NotebookApp] Saving file at /qwen32-b.ipynb
+[W 12:35:39.954 NotebookApp] WebSocket ping timeout after 119623 ms.
+[W 12:35:40.111 NotebookApp] WebSocket ping timeout after 119515 ms.
+[W 12:35:42.276 NotebookApp] WebSocket ping timeout after 119449 ms.
+[I 12:35:45.112 NotebookApp] Starting buffering for a2a00142-f21c-41cf-bb9a-629b1222f91a:284d5ae35ea0448b8d0f142d66989f96
+[I 12:35:47.278 NotebookApp] Starting buffering for e0657b49-3103-4832-9afa-aea7cb2175b2:d87049adecbe40378a69784b357190da
+[I 17:26:20.601 NotebookApp] 302 GET / (127.0.0.1) 0.250000ms
+[I 17:26:20.641 NotebookApp] 302 GET /tree? (127.0.0.1) 0.540000ms
+[I 17:26:55.917 NotebookApp] 302 GET / (127.0.0.1) 0.250000ms
+[I 17:26:55.918 NotebookApp] 302 GET /tree? (127.0.0.1) 0.280000ms
+[I 17:26:55.933 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:43a27646-4db5-4936-830f-293c7a215235
+[I 17:26:55.938 NotebookApp] Restoring connection for 63af4703-c69e-4533-8327-3e86ed300b7d:43a27646-4db5-4936-830f-293c7a215235
+[I 17:26:56.638 NotebookApp] 302 GET / (127.0.0.1) 2.520000ms
+[I 17:26:56.643 NotebookApp] 302 GET /tree? (127.0.0.1) 0.260000ms
+[I 17:31:00.362 NotebookApp] 302 GET / (127.0.0.1) 0.320000ms
+[I 17:31:00.363 NotebookApp] 302 GET /tree? (127.0.0.1) 0.320000ms
+[I 17:31:01.094 NotebookApp] 302 GET / (127.0.0.1) 0.720000ms
+[I 17:31:01.100 NotebookApp] 302 GET /tree? (127.0.0.1) 0.350000ms
+[I 21:55:27.813 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:298ec7c1-cdbf-43d9-864f-15b12cd94166
+[I 12:29:06.726 NotebookApp] 302 GET / (127.0.0.1) 0.250000ms
+[I 12:29:06.800 NotebookApp] 302 GET /tree? (127.0.0.1) 0.380000ms
+[I 12:31:14.024 NotebookApp] 302 GET / (127.0.0.1) 0.240000ms
+[I 12:31:14.025 NotebookApp] 302 GET /tree? (127.0.0.1) 0.270000ms
+[I 12:31:14.039 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:01b0742b-87d8-4f45-8c4d-9a7a3018139b
+[I 12:31:14.043 NotebookApp] Restoring connection for 63af4703-c69e-4533-8327-3e86ed300b7d:01b0742b-87d8-4f45-8c4d-9a7a3018139b
+[I 12:31:14.872 NotebookApp] 302 GET / (127.0.0.1) 0.680000ms
+[I 12:31:14.877 NotebookApp] 302 GET /tree? (127.0.0.1) 0.280000ms
+[I 12:31:31.882 NotebookApp] 302 GET / (127.0.0.1) 0.240000ms
+[I 12:31:31.883 NotebookApp] 302 GET /tree? (127.0.0.1) 0.310000ms
+[I 12:31:32.599 NotebookApp] 302 GET / (127.0.0.1) 0.350000ms
+[I 12:31:32.603 NotebookApp] 302 GET /tree? (127.0.0.1) 0.490000ms
+[I 12:40:10.989 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:01b0742b-87d8-4f45-8c4d-9a7a3018139b
+[I 12:40:21.020 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 12:40:22.855 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 12:42:22.868 NotebookApp] 302 GET / (127.0.0.1) 0.240000ms
+[I 12:42:22.869 NotebookApp] 302 GET /tree? (127.0.0.1) 0.290000ms
+[I 12:42:22.884 NotebookApp] Discarding 1 buffered messages for 63af4703-c69e-4533-8327-3e86ed300b7d:01b0742b-87d8-4f45-8c4d-9a7a3018139b
+[I 12:42:22.884 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:128750c0-47a7-4707-b149-f55d3cfe3adc
+[I 12:42:22.889 NotebookApp] Restoring connection for 63af4703-c69e-4533-8327-3e86ed300b7d:128750c0-47a7-4707-b149-f55d3cfe3adc
+[I 12:42:23.689 NotebookApp] 302 GET / (127.0.0.1) 0.920000ms
+[I 12:42:23.693 NotebookApp] 302 GET /tree? (127.0.0.1) 0.340000ms
+[I 12:43:27.238 NotebookApp] Starting buffering for 63af4703-c69e-4533-8327-3e86ed300b7d:128750c0-47a7-4707-b149-f55d3cfe3adc
+[I 12:50:22.278 NotebookApp] 302 GET / (127.0.0.1) 0.250000ms
+[I 12:50:22.356 NotebookApp] 302 GET /tree? (127.0.0.1) 0.460000ms
+[I 16:40:28.602 NotebookApp] 302 GET / (127.0.0.1) 40.180000ms
+[I 16:40:28.687 NotebookApp] 302 GET /tree? (127.0.0.1) 20.080000ms
+[I 16:52:35.031 NotebookApp] Shutting down on /api/shutdown request.
+[I 16:52:35.039 NotebookApp] Shutting down 4 kernels
+[I 16:52:35.136 NotebookApp] Kernel shutdown: e0657b49-3103-4832-9afa-aea7cb2175b2
+[I 16:52:35.138 NotebookApp] Kernel shutdown: 1586c807-70c8-4732-a5bc-267555d14f05
+[I 16:52:35.138 NotebookApp] Kernel shutdown: 63af4703-c69e-4533-8327-3e86ed300b7d
+[I 16:52:35.139 NotebookApp] Kernel shutdown: a2a00142-f21c-41cf-bb9a-629b1222f91a
+[I 16:52:39.579 NotebookApp] Shutting down 0 terminals
+[I 16:52:48.744 NotebookApp] Shutting down on /api/shutdown request.
+[I 16:52:48.776 NotebookApp] Shutting down 0 kernels
+[I 16:52:48.783 NotebookApp] Shutting down 0 terminals
+[I 16:53:09.689 NotebookApp] Shutting down on /api/shutdown request.
+[I 16:53:09.720 NotebookApp] Shutting down 0 kernels
+[I 16:53:09.727 NotebookApp] Shutting down 0 terminals

@@ -1,0 +1,737 @@
+
+--------------------------------------------------------------------------------------------
+  AlphaFold:
+--------------------------------------------------------------------------------------------
+    Description:
+      Provides accurate structure predictions for how proteins interact with other
+      molecules, like DNA, RNA and more.
+
+     Versions:
+        AlphaFold/2.3.1-foss-2022a-CUDA-11.7.0
+        AlphaFold/2.3.1-foss-2022a
+        AlphaFold/3.0.0-foss-2024a-CUDA-12.6.0
+        AlphaFold/3.0.1-foss-2024a-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "AlphaFold" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider AlphaFold/3.0.1-foss-2024a-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  Blender:
+--------------------------------------------------------------------------------------------
+    Description:
+      Blender is the free and open source 3D creation suite. It supports the entirety of
+      the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing and
+      motion tracking, even video editing and game creation.
+
+     Versions:
+        Blender/3.2.2-linux-x64
+        Blender/3.3.1
+        Blender/3.4.1-linux-x86_64-CUDA-11.7.0
+        Blender/3.6.5-linux-x86_64-CUDA-12.1.1
+        Blender/4.0.1-linux-x86_64-CUDA-12.1.1
+        Blender/4.2.0-linux-x86_64-CUDA-12.1.1
+        Blender/4.2.0-linux-x86_64-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "Blender" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider Blender/4.2.0-linux-x86_64-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  CUDA:
+--------------------------------------------------------------------------------------------
+    Description:
+      CUDA (formerly Compute Unified Device Architecture) is a parallel computing platform
+      and programming model created by NVIDIA and implemented by the graphics processing
+      units (GPUs) that they produce. CUDA gives developers access to the virtual
+      instruction set and memory of the parallel computational elements in CUDA GPUs.
+
+     Versions:
+        CUDA/11.6.0
+        CUDA/11.7.0
+        CUDA/11.8.0
+        CUDA/12.1.1
+        CUDA/12.4.0
+        CUDA/12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "CUDA" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider CUDA/12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  CUDA-Samples: CUDA-Samples/12.1-GCC-12.3.0-CUDA-12.1.1
+--------------------------------------------------------------------------------------------
+    Description:
+      Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+
+
+    You will need to load all module(s) on any one of the lines below before the "CUDA-Samples/12.1-GCC-12.3.0-CUDA-12.1.1" module is available to load.
+
+      2023
+ 
+    Help:
+      
+      Description
+      ===========
+      Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+      
+      
+      More information
+      ================
+       - Homepage: https://github.com/NVIDIA/cuda-samples
+      
+
+
+--------------------------------------------------------------------------------------------
+  ELPA: ELPA/2022.05.001-foss-2022a-CUDA-11.7.0
+--------------------------------------------------------------------------------------------
+    Description:
+      Eigenvalue SoLvers for Petaflop-Applications.
+
+
+    You will need to load all module(s) on any one of the lines below before the "ELPA/2022.05.001-foss-2022a-CUDA-11.7.0" module is available to load.
+
+      2022
+ 
+    Help:
+      
+      Description
+      ===========
+      Eigenvalue SoLvers for Petaflop-Applications.
+      
+      
+      More information
+      ================
+       - Homepage: https://elpa.rzg.mpg.de
+      
+
+
+--------------------------------------------------------------------------------------------
+  ESPResSo: ESPResSo/4.2.2-foss-2024a-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+    Description:
+      A software package for performing and analyzing scientific Molecular Dynamics
+      simulations.
+
+
+    You will need to load all module(s) on any one of the lines below before the "ESPResSo/4.2.2-foss-2024a-CUDA-12.6.0" module is available to load.
+
+      2024
+ 
+    Help:
+      
+      Description
+      ===========
+      A software package for performing and analyzing scientific Molecular Dynamics simulations.
+      
+      
+      More information
+      ================
+       - Homepage: https://espressomd.org/wordpress
+      
+
+
+--------------------------------------------------------------------------------------------
+  FFTW: FFTW/3.3.10-NVHPC-24.9-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+    Description:
+      FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in
+      one or more dimensions, of arbitrary input size, and of both real and complex data.
+
+
+    You will need to load all module(s) on any one of the lines below before the "FFTW/3.3.10-NVHPC-24.9-CUDA-12.6.0" module is available to load.
+
+      2024
+ 
+    Help:
+      
+      Description
+      ===========
+      FFTW is a C subroutine library for computing the discrete Fourier transform (DFT)
+      in one or more dimensions, of arbitrary input size, and of both real and complex data.
+      
+      
+      More information
+      ================
+       - Homepage: https://www.fftw.org
+      
+
+
+--------------------------------------------------------------------------------------------
+  FlexiBLAS: FlexiBLAS/3.4.4-NVHPC-24.9-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+    Description:
+      FlexiBLAS is a wrapper library that enables the exchange of the BLAS and LAPACK
+      implementation used by a program without recompiling or relinking it.
+
+
+    You will need to load all module(s) on any one of the lines below before the "FlexiBLAS/3.4.4-NVHPC-24.9-CUDA-12.6.0" module is available to load.
+
+      2024
+ 
+    Help:
+      
+      Description
+      ===========
+      FlexiBLAS is a wrapper library that enables the exchange of the BLAS and LAPACK implementation
+      used by a program without recompiling or relinking it.
+      
+      
+      More information
+      ================
+       - Homepage: https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release
+      
+
+
+--------------------------------------------------------------------------------------------
+  GROMACS:
+--------------------------------------------------------------------------------------------
+    Description:
+      GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the
+      Newtonian equations of motion for systems with hundreds to millions of particles.
+      This is a CPU only build, containing both MPI and threadMPI binaries for both single
+      and double precision. It also contains the gmxapi extension for the single precision
+      MPI build. 
+
+     Versions:
+        GROMACS/2021.6-foss-2022a-CUDA-11.7.0
+        GROMACS/2021.6-foss-2022a
+        GROMACS/2023.2-foss-2023a-PLUMED-2.9.0.GMX2023
+        GROMACS/2023.3-foss-2023a-CUDA-12.1.1-PLUMED-2.9.0
+        GROMACS/2023.3-foss-2023a
+        GROMACS/2024.3-foss-2024a-CUDA-12.6.0-PLUMED-2.9.2
+        GROMACS/2024.3-foss-2024a
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "GROMACS" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider GROMACS/2024.3-foss-2024a
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  Gctf: Gctf/1.06-CUDA-11.7.0
+--------------------------------------------------------------------------------------------
+    Description:
+      Gctf is a tool for real-time CTF determination and correction.
+
+
+    You will need to load all module(s) on any one of the lines below before the "Gctf/1.06-CUDA-11.7.0" module is available to load.
+
+      2022
+ 
+    Help:
+      
+      Description
+      ===========
+      Gctf is a tool for real-time CTF determination and correction.
+      
+      
+      More information
+      ================
+       - Homepage: https://www.mrc-lmb.cam.ac.uk/kzhang/
+      
+
+
+--------------------------------------------------------------------------------------------
+  Horovod: Horovod/0.28.1-foss-2022a-CUDA-11.7.0-PyTorch-1.12.0
+--------------------------------------------------------------------------------------------
+    Description:
+      Horovod is a distributed training framework for TensorFlow, PyTorch and MXnet. This
+      build only has PyTorch enabled.
+
+
+    You will need to load all module(s) on any one of the lines below before the "Horovod/0.28.1-foss-2022a-CUDA-11.7.0-PyTorch-1.12.0" module is available to load.
+
+      2022
+ 
+    Help:
+      
+      Description
+      ===========
+      Horovod is a distributed training framework for TensorFlow, PyTorch and MXnet.
+      This build only has PyTorch enabled.
+      
+      
+      More information
+      ================
+       - Homepage: https://github.com/uber/horovod
+      
+      
+      Included extensions
+      ===================
+      cloudpickle-2.2.1, horovod-0.28.1
+      
+
+
+--------------------------------------------------------------------------------------------
+  NCCL:
+--------------------------------------------------------------------------------------------
+    Description:
+      The NVIDIA Collective Communications Library (NCCL) implements multi-GPU and
+      multi-node collective communication primitives that are performance optimized for
+      NVIDIA GPUs.
+
+     Versions:
+        NCCL/2.12.12-GCCcore-11.3.0-CUDA-11.7.0
+        NCCL/2.18.3-GCCcore-12.3.0-CUDA-12.1.1
+        NCCL/2.22.3-GCCcore-13.3.0-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "NCCL" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider NCCL/2.22.3-GCCcore-13.3.0-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  NVHPC:
+--------------------------------------------------------------------------------------------
+    Description:
+      C, C++ and Fortran compilers included with the NVIDIA HPC SDK (previously: PGI)
+
+     Versions:
+        NVHPC/22.7-CUDA-11.7.0
+        NVHPC/22.7
+        NVHPC/23.7-CUDA-12.1.1
+        NVHPC/24.5-CUDA-12.1.1
+        NVHPC/24.9-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "NVHPC" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider NVHPC/24.9-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  OSU-Micro-Benchmarks:
+--------------------------------------------------------------------------------------------
+    Description:
+      OSU Micro-Benchmarks
+
+     Versions:
+        OSU-Micro-Benchmarks/5.9-gompi-2022a
+        OSU-Micro-Benchmarks/7.1-1-gompi-2023a
+        OSU-Micro-Benchmarks/7.1-1-iimpi-2023a
+        OSU-Micro-Benchmarks/7.2-gompi-2023a-CUDA-12.1.1
+        OSU-Micro-Benchmarks/7.4-gompi-2024a
+        OSU-Micro-Benchmarks/7.4-iimpi-2024a
+        OSU-Micro-Benchmarks/7.5-gompi-2024a-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "OSU-Micro-Benchmarks" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider OSU-Micro-Benchmarks/7.5-gompi-2024a-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  OpenBLAS: OpenBLAS/0.3.27-NVHPC-24.9-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+    Description:
+      OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+
+
+    You will need to load all module(s) on any one of the lines below before the "OpenBLAS/0.3.27-NVHPC-24.9-CUDA-12.6.0" module is available to load.
+
+      2024
+ 
+    Help:
+      
+      Description
+      ===========
+      OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+      
+      
+      More information
+      ================
+       - Homepage: http://www.openblas.net/
+      
+
+
+--------------------------------------------------------------------------------------------
+  OpenCV: OpenCV/4.6.0-foss-2022a-CUDA-11.7.0-contrib
+--------------------------------------------------------------------------------------------
+    Description:
+      OpenCV (Open Source Computer Vision Library) is an open source computer vision and
+      machine learning software library. OpenCV was built to provide a common
+      infrastructure for computer vision applications and to accelerate the use of machine
+      perception in the commercial products. Includes extra modules for OpenCV from the
+      contrib repository.
+
+
+    You will need to load all module(s) on any one of the lines below before the "OpenCV/4.6.0-foss-2022a-CUDA-11.7.0-contrib" module is available to load.
+
+      2022
+ 
+    Help:
+      
+      Description
+      ===========
+      OpenCV (Open Source Computer Vision Library) is an open source computer vision
+       and machine learning software library. OpenCV was built to provide
+       a common infrastructure for computer vision applications and to accelerate
+       the use of machine perception in the commercial products.
+       Includes extra modules for OpenCV from the contrib repository.
+      
+      
+      More information
+      ================
+       - Homepage: https://opencv.org/
+      
+
+
+--------------------------------------------------------------------------------------------
+  OpenMM: OpenMM/8.0.0-foss-2022a-CUDA-11.7.0
+--------------------------------------------------------------------------------------------
+    Description:
+      OpenMM is a toolkit for molecular simulation.
+
+
+    You will need to load all module(s) on any one of the lines below before the "OpenMM/8.0.0-foss-2022a-CUDA-11.7.0" module is available to load.
+
+      2022
+ 
+    Help:
+      
+      Description
+      ===========
+      OpenMM is a toolkit for molecular simulation.
+      
+      
+      More information
+      ================
+       - Homepage: https://openmm.org
+      
+
+
+--------------------------------------------------------------------------------------------
+  OpenMPI:
+--------------------------------------------------------------------------------------------
+    Description:
+      The Open MPI Project is an open source MPI-3 implementation.
+
+     Versions:
+        OpenMPI/4.1.4-GCC-11.3.0
+        OpenMPI/4.1.4-NVHPC-22.7-CUDA-11.7.0
+        OpenMPI/4.1.5-GCC-12.3.0
+        OpenMPI/4.1.5-NVHPC-23.7-CUDA-12.1.1
+        OpenMPI/4.1.5-NVHPC-24.5-CUDA-12.1.1
+        OpenMPI/5.0.3-GCC-13.3.0
+        OpenMPI/5.0.3-NVHPC-24.9-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "OpenMPI" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider OpenMPI/5.0.3-NVHPC-24.9-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  PyTorch:
+--------------------------------------------------------------------------------------------
+    Description:
+      Tensors and Dynamic neural networks in Python with strong GPU acceleration. PyTorch
+      is a deep learning framework that puts Python first.
+
+     Versions:
+        PyTorch/1.12.0-foss-2022a-CUDA-11.7.0
+        PyTorch/1.12.0-foss-2022a
+        PyTorch/2.1.2-foss-2023a-CUDA-12.1.1
+        PyTorch/2.1.2-foss-2023a
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "PyTorch" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider PyTorch/2.1.2-foss-2023a
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  RELION: RELION/4.0.1-foss-2022a-CUDA-11.7.0
+--------------------------------------------------------------------------------------------
+    Description:
+      RELION (for REgularised LIkelihood OptimisatioN, pronounce rely-on) is a stand-alone
+      computer program that employs an empirical Bayesian approach to refinement of
+      (multiple) 3D reconstructions or 2D class averages in electron cryo-microscopy
+      (cryo-EM).
+
+
+    You will need to load all module(s) on any one of the lines below before the "RELION/4.0.1-foss-2022a-CUDA-11.7.0" module is available to load.
+
+      2022
+ 
+    Help:
+      
+      Description
+      ===========
+      RELION (for REgularised LIkelihood OptimisatioN, pronounce rely-on) is a stand-alone computer
+       program that employs an empirical Bayesian approach to refinement of (multiple) 3D reconstructions or 2D class
+       averages in electron cryo-microscopy (cryo-EM).
+      
+      
+      More information
+      ================
+       - Homepage: http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page
+      
+
+
+--------------------------------------------------------------------------------------------
+  Score-P:
+--------------------------------------------------------------------------------------------
+    Description:
+      The Score-P measurement infrastructure is a highly scalable and easy-to-use tool
+      suite for profiling, event tracing, and online analysis of HPC applications. 
+
+     Versions:
+        Score-P/8.0-gompi-2022a
+        Score-P/8.1-gompi-2023a
+        Score-P/8.3-gompi-2023a
+        Score-P/8.4-gompi-2023a-CUDA-12.1.1
+        Score-P/8.4-gompi-2023a
+        Score-P/8.4-gompi-2024a-CUDA-12.6.0
+        Score-P/8.4-gompi-2024a
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "Score-P" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider Score-P/8.4-gompi-2024a
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  TensorFlow:
+--------------------------------------------------------------------------------------------
+    Description:
+      An open-source software library for Machine Intelligence
+
+     Versions:
+        TensorFlow/2.11.0-foss-2022a-CUDA-11.7.0
+        TensorFlow/2.11.0-foss-2022a
+        TensorFlow/2.13.0-foss-2023a
+        TensorFlow/2.15.1-foss-2023a-CUDA-12.1.1
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "TensorFlow" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider TensorFlow/2.15.1-foss-2023a-CUDA-12.1.1
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  UCC-CUDA:
+--------------------------------------------------------------------------------------------
+    Description:
+      UCC (Unified Collective Communication) is a collective communication operations API
+      and library that is flexible, complete, and feature-rich for current and emerging
+      programming models and runtimes. This module adds the UCC CUDA support. 
+
+     Versions:
+        UCC-CUDA/1.0.0-GCCcore-11.3.0-CUDA-11.7.0
+        UCC-CUDA/1.2.0-GCCcore-12.3.0-CUDA-12.1.1
+        UCC-CUDA/1.3.0-GCCcore-13.3.0-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "UCC-CUDA" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider UCC-CUDA/1.3.0-GCCcore-13.3.0-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  UCX-CUDA:
+--------------------------------------------------------------------------------------------
+    Description:
+      Unified Communication X An open-source production grade communication framework for
+      data centric and high-performance applications This module adds the UCX CUDA support.
+      
+
+     Versions:
+        UCX-CUDA/1.12.1-GCCcore-11.3.0-CUDA-11.7.0
+        UCX-CUDA/1.14.1-GCCcore-12.3.0-CUDA-12.1.1
+        UCX-CUDA/1.16.0-GCCcore-13.3.0-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "UCX-CUDA" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider UCX-CUDA/1.16.0-GCCcore-13.3.0-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  VASP5:
+--------------------------------------------------------------------------------------------
+    Description:
+      The Vienna Ab initio Simulation Package (VASP) is a computer program for atomic scale
+      materials modelling, e.g. electronic structure calculations and quantum-mechanical
+      molecular dynamics, from first principles. This version has included the add-ons:
+      VASPsol (for solvation computations) and VTST (VASP Transition State Tools version
+      1.8.4)
+
+     Versions:
+        VASP5/5.4.4.pl2-foss-2022a-CUDA-11.7.0
+        VASP5/5.4.4.pl2-foss-2022a-VASPsol-VTST-CUDA-11.7.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "VASP5" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider VASP5/5.4.4.pl2-foss-2022a-VASPsol-VTST-CUDA-11.7.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  VASP6: VASP6/6.2.1-foss-2022a-CUDA-11.7.0
+--------------------------------------------------------------------------------------------
+    Description:
+      The Vienna Ab initio Simulation Package (VASP) is a computer program for atomic scale
+      materials modelling, e.g. electronic structure calculations and quantum-mechanical
+      molecular dynamics, from first principles.
+
+
+    You will need to load all module(s) on any one of the lines below before the "VASP6/6.2.1-foss-2022a-CUDA-11.7.0" module is available to load.
+
+      2022
+ 
+    Help:
+      
+      Description
+      ===========
+      The Vienna Ab initio Simulation Package (VASP) is a computer program for atomic scale
+      materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics,
+      from first principles.
+      
+      
+      More information
+      ================
+       - Homepage: http://www.vasp.at
+      
+
+
+--------------------------------------------------------------------------------------------
+  cuDNN:
+--------------------------------------------------------------------------------------------
+    Description:
+      The NVIDIA CUDA Deep Neural Network library (cuDNN) is a GPU-accelerated library of
+      primitives for deep neural networks.
+
+     Versions:
+        cuDNN/8.4.1.50-CUDA-11.7.0
+        cuDNN/8.6.0.163-CUDA-11.8.0
+        cuDNN/8.9.2.26-CUDA-12.1.1
+        cuDNN/9.5.0.50-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "cuDNN" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cuDNN/9.5.0.50-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  jax:
+--------------------------------------------------------------------------------------------
+    Description:
+      Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to
+      GPU/TPU, and more
+
+     Versions:
+        jax/0.3.14-foss-2022a-CUDA-11.7.0
+        jax/0.3.25-foss-2022a-CUDA-11.7.0
+        jax/0.3.25-foss-2022a
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "jax" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider jax/0.3.25-foss-2022a
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  magma:
+--------------------------------------------------------------------------------------------
+    Description:
+      The MAGMA project aims to develop a dense linear algebra library similar to LAPACK
+      but for heterogeneous/hybrid architectures, starting with current Multicore+GPU
+      systems.
+
+     Versions:
+        magma/2.6.2-foss-2022a-CUDA-11.7.0
+        magma/2.7.2-foss-2023a-CUDA-12.1.1
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "magma" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider magma/2.7.2-foss-2023a-CUDA-12.1.1
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  pmt:
+--------------------------------------------------------------------------------------------
+    Description:
+      PMT is a high-level software library capable of collecting power consumption
+      measurements on various hardware.
+
+     Versions:
+        pmt/1.2.0-GCCcore-11.3.0-CUDA-11.7.0
+        pmt/1.2.0-GCCcore-11.3.0
+        pmt/1.2.0-GCCcore-12.3.0-CUDA-12.1.1
+        pmt/1.2.0-GCCcore-12.3.0
+        pmt/1.3.1-GCCcore-13.3.0-CUDA-12.6.0
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "pmt" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider pmt/1.3.1-GCCcore-13.3.0-CUDA-12.6.0
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+  torchvision:
+--------------------------------------------------------------------------------------------
+    Description:
+      Datasets, Transforms and Models specific to Computer Vision
+
+     Versions:
+        torchvision/0.13.1-foss-2022a-CUDA-11.7.0
+        torchvision/0.13.1-foss-2022a
+        torchvision/0.16.0-foss-2023a-CUDA-12.1.1
+
+--------------------------------------------------------------------------------------------
+  For detailed information about a specific "torchvision" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider torchvision/0.16.0-foss-2023a-CUDA-12.1.1
+--------------------------------------------------------------------------------------------
+
+ 
+

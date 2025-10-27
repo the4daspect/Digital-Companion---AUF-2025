@@ -1,0 +1,56 @@
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "CUDA/12.1.1"
+   Try: "module spider CUDA/12.1.1" to see how to load the module(s).
+
+
+
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "cuDNN/8.9.2.26-CUDA-12.1.1"
+   Try: "module spider cuDNN/8.9.2.26-CUDA-12.1.1" to see how to load the
+module(s).
+
+
+
+--- Attempting to run nvidia-smi with loaded modules: ---
+
+Currently Loaded Modules:
+  1) 2024
+
+ 
+
+--------------------------------------------------------
+Fri Aug 29 01:02:26 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 575.57.08              Driver Version: 575.57.08      CUDA Version: 12.9     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-SXM4-40GB          On  |   00000000:31:00.0 Off |                    0 |
+| N/A   29C    P0             48W /  400W |       0MiB /  40960MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+JOB STATISTICS
+==============
+Job ID: 14356119
+Cluster: snellius
+User/Group: amark/amark
+State: RUNNING
+Nodes: 1
+Cores per node: 18
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 00:04:12 core-walltime
+Job Wall-clock time: 00:00:14
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 120.00 GB (120.00 GB/node)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.
