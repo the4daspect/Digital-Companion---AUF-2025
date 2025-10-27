@@ -31,7 +31,7 @@ def calculate_bleu(answer, standard1, standard2):
   bleu_score = sentence_bleu([reference1, reference2], candidate)
   return bleu_score
 
-#Calculate rouge-l
+# Calculate rouge-l
 def calculate_rouge_L(candidate, reference):
   scorer = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
   rouge_L_score = scorer.score(reference, candidate)
